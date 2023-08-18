@@ -1,5 +1,6 @@
 ﻿
 # What is iTin.Core.Hardware.Abstractions?
+
 iTin.Core.Hardware.Abstractions contains a generic common hardware abstractions.
 
 # Usage
